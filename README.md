@@ -31,19 +31,30 @@ Installing - easy ::
 Download the repository
 
 git clone https://github.com/avnishsharma1209/Healthcare_Management_System
+
 Open the Terminal PowerShell (Windows) and change directory to the project folder.
+
 Go to frontend folder and type " npm install " in the terminal and press Enter.All the dependencies of frontend would be installed.
+
 cd frontend 
+
 npm install 
+
 Go to backed folder and type " npm install " in the terminal and press Enter.All the dependencies of backed would be installed.
+
 cd backend  
+
 Go back to the Terminal (PowerShell) and be sure that you are pointing inside the project folder. To open the application, type ‘node server.js ’ and press Enter.
+
 
 The server should be live on the local port 4002.
 
+
 Type http://localhost:5173/ into a browser.
 
+
 Now you should be inside the application
+
 
 Screenshots
 
