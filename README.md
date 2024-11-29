@@ -10,16 +10,26 @@ User should not be allowed to register if he/she tries to provide the already re
 Allows doctors and healthcare providers to create and manage their profiles, including specialties, availability, and contact information.
 
 Language and Technology used:
+
 Html,css
+
 Javascript
+
 React
+
 MongoDb
+
 Express
+
 Node
+
 Postman API
-Installing
+
+
 Installing - easy ::
+
 Download the repository
+
 git clone https://github.com/avnishsharma1209/Healthcare_Management_System
 Open the Terminal PowerShell (Windows) and change directory to the project folder.
 Go to frontend folder and type " npm install " in the terminal and press Enter.All the dependencies of frontend would be installed.
